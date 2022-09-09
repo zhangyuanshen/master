@@ -1,0 +1,2 @@
+D:\master\api_project_2022\data\record_data.yml
+{'id': 2362632857, 'record_on': '2022-08-27', 'unit_name': '克', 'amount': 200.0, 'code': 'mifan_zheng', 'food_name': '米饭', 'thumb_img_url': 'https://s.boohee.cn/house/upload_food/2020/5/27/mid_photo_url_big_photo_url_f81e8de29f76e6d0c39d4142fe45764f.jpg', 'large_img_url': 'https://s.boohee.cn/house/upload_food/2020/5/27/big_photo_url_big_photo_url_f81e8de29f76e6d0c39d4142fe45764f.jpg', 'food_unit_id': None, 'calory': 232.0, 'time_type': 1, 'is_liquid': False, 'is_dynamic_dish': False, 'weight': '200.0'}

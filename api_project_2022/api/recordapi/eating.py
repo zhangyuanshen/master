@@ -2,6 +2,7 @@ import os
 
 import yaml
 
+import config.config
 from base.baseapi import BaseApi
 from base.baseurl import RcUrl
 from api.login import login_get_token
@@ -12,9 +13,10 @@ from config.config import ROOT_PATH
 class EatingApi(BaseApi):
     def __init__(self):
         self.params["token"] = self.base_token
-
-        _path = os.path.abspath("../../data/record_data.yml")
-        with open(_path, encoding="utf-8") as f:
+        root_path = config.config.ROOT_PATH
+        yaml_path = os.path.join(root_path, "data", "record_data.yml")
+        # _path = os.path.abspath("../../data/record_data.yml")
+        with open(yaml_path, encoding="utf-8") as f:
             self.data = yaml.safe_load(f)
 
     def add_food(self,params):
@@ -31,9 +33,10 @@ class EatingApi(BaseApi):
 
 if __name__ == '__main__':
     curpath = os.path.realpath(__file__)
-    root_path = os.path.dirname(os.path.dirname(curpath))
-    yaml_path = os.path.join(root_path, "data", "record_data.yml")
-    _path = os.path.abspath(__file__)
-    print(_path)
+    root_path = config.config.ROOT_PATH
+    yaml_path = os.path.join(ROOT_PATH, "data", "record_data.yml")
+    test_path = os.path.abspath(__file__)
+    print(test_path)
     print(curpath)
     print(root_path)
+    print(yaml_path)
