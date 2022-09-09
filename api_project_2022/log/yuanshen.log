@@ -1,0 +1,72 @@
+2021-07-09 16:26:15 - ha - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-09 16:28:26 - ha - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-09 16:30:32 - ha - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-09 16:32:56 - ha - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-13 09:35:06 - ha - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-13 09:37:52 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-13 09:55:49 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-13 09:57:10 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-13 10:00:35 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - DEBUG - 这是debug
+
+2021-07-13 10:01:49 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+
+2021-07-13 10:28:21 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 10:28:21 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+
+2021-07-13 10:28:46 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 10:28:46 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 10:28:46 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 10:50:42 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 10:50:42 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 10:50:42 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 10:55:11 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 10:55:11 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 10:55:11 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 11:05:51 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 11:05:51 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 11:05:51 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 11:34:12 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 11:34:12 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 11:34:12 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 11:40:36 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 11:40:36 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 11:40:36 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 15:53:39 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:9" - <module> - DEBUG - 这是debug
+2021-07-13 15:53:39 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:10" - <module> - INFO - info
+2021-07-13 15:53:39 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/log_a.py:11" - <module> - ERROR - najsn
+
+2021-07-13 15:54:43 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2021-07-13 15:54:43 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/ke11/test_data.yml
+
+2021-07-13 15:55:29 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2021-07-13 15:55:29 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/data/login_data.yml
+
+2021-07-21 14:30:24 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2021-07-21 14:30:24 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/data/login_data.yml
+
+2021-07-21 14:32:21 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2021-07-21 14:32:21 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/data/login_data.yml
+
+2021-07-21 14:33:48 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2021-07-21 14:33:48 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/data/login_data.yml
+
+2021-07-21 14:34:14 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2021-07-21 14:34:14 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2021_07/data/login_data.yml
+
+2022-06-17 15:56:08 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2022/common/read_yaml.py:11" - yaml_to_python - DEBUG - 读取yml文件，转python类型
+2022-06-17 15:56:08 - ceshi - "/Users/zhangyuanshen/PycharmProjects/api_project_2022/common/read_yaml.py:12" - yaml_to_python - INFO - 读取yml文件获取文件地址：/Users/zhangyuanshen/PycharmProjects/api_project_2022/data/recorddata.yml
+

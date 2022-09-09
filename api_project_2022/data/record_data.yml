@@ -1,0 +1,39 @@
+#新增食物接口数据
+add_food:
+  "method": "post"
+  "headers":
+    "token": ${token}
+  "url": ${url}
+  "json":
+      "amount": 100
+      "food_name": 米饭
+      "calory": 116
+      "code": mifan_zheng
+      "food_unit_id": '0'
+      "record_on": '2022-08-27'
+      "time_type": '1'
+      "unit_name": 克
+      "record_from": 搜索添加
+#更新食物接口数据
+update_food:
+  "method": "put"
+  "headers":
+    "token": ${token}
+  "url": ${url}
+  "json":
+      "amount": 200
+      "food_name": 米饭
+      "calory": 116
+      "code": mifan_zheng
+      "food_unit_id": '0'
+      "record_on": '2022-08-27'
+      "time_type": '1'
+      "unit_name": 克
+      "record_from": 搜索添加
+#删除食物接口数据
+delete_food:
+  "method": "delete"
+  "headers":
+    "token": ${token}
+  "url": ${url}
+
